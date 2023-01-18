@@ -5,5 +5,5 @@ slug: ml
 category: dev
 menu: false
 order: 1
-header-img: "/img/ml-logo.png"
+header-img: "assets/img/_logo/ml-logo.png"
 ---

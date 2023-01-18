@@ -5,5 +5,5 @@ slug: flutter
 category: dev
 menu: false
 order: 1
-header-img: "/img/flutter-logo.png"
+header-img: "assets/img/_logo/flutter-logo.png"
 ---

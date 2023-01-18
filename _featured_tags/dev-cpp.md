@@ -5,5 +5,5 @@ slug: cpp
 category: dev
 menu: false
 order: 1
-header-img: "/img/cpp-logo.png"
+header-img: "assets/img/_logo/cpp-logo.png"
 ---

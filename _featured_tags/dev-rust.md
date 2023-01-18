@@ -5,5 +5,5 @@ slug: rust
 category: dev
 menu: false
 order: 1
-header-img: "/img/rust-logo.png"
+header-img: "assets/img/_logo/rust-logo.png"
 ---

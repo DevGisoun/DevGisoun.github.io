@@ -5,5 +5,5 @@ slug: linux
 category: dev
 menu: false
 order: 1
-header-img: "/img/linux-logo.png"
+header-img: "assets/img/_logo/linux-logo.png"
 ---

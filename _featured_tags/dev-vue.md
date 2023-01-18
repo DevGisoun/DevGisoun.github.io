@@ -5,5 +5,5 @@ slug: vue
 category: dev
 menu: false
 order: 1
-header-img: "/img/vue-logo.png"
+header-img: "assets/img/_logo/vue-logo.png"
 ---

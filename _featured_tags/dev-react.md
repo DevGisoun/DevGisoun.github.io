@@ -5,5 +5,5 @@ slug: react
 category: dev
 menu: false
 order: 1
-header-img: "assets/img/_logo/react-logo.png"
+header-img: "assets/logo/react-logo.png"
 ---

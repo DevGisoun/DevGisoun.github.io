@@ -5,5 +5,5 @@ slug: etc
 category: dev
 menu: false
 order: 1
-header-img: "assets/img/_logo/etc-logo.png"
+header-img: "assets/logo/etc-logo.png"
 ---

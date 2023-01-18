@@ -5,5 +5,5 @@ slug: git
 category: dev
 menu: false
 order: 1
-header-img: "assets/img/_logo/git-logo.png"
+header-img: "assets/logo/git-logo.png"
 ---

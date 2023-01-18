@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Things
-slug: things
-category: review
+title: React
+slug: react
+category: dev
 menu: false
 order: 1
 ---

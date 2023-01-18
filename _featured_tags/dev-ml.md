@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: ML
+title: Machine Learning
 slug: ml
-category: devlog
+category: dev
 menu: false
 order: 1
 ---

@@ -1,10 +1,10 @@
 ---
 layout: list
-title: Tip
-slug: tip
+title: Daily
+slug: daily
 menu: true
 submenu: false
 order: 4
 description: >
-  여러 팁들을 공유합니다.
+  일상 관련 포스팅을 합니다.
 ---

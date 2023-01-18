@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "포스팅 테스트"
-subtitle:   "포스팅 테스트"
-categories: devlog
-tags: git
+subtitle:   "Flutter Tag Posting"
+categories: dev
+tags: flutter
 ---
 
-## 테스트
+## Flutter 포스팅 테스트
 
 1. 테스트
 2. 테스트

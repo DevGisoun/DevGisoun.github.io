@@ -8,7 +8,7 @@ isme2n:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    기순입니다.
+    기순 블로그에 오신 것을 환영합니다 !!
 
   # This photo will be used in the about section
   picture:

@@ -4,6 +4,6 @@ title: C++
 slug: cpp
 category: dev
 menu: false
-order: 2
+order: 1
 header-img: "/img/cpp-logo.png"
 ---

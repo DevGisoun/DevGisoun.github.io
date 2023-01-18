@@ -2,7 +2,8 @@
 layout: about
 title: About
 menu: true
-order: 10
+submenu: false
+order: 1
 ---
 
 ## 테스트

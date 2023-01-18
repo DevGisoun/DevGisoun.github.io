@@ -4,6 +4,6 @@ title: Rust
 slug: rust
 category: dev
 menu: false
-order: 2
+order: 1
 header-img: "/img/rust-logo.png"
 ---
